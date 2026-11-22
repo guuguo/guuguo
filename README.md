@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-hub.guuguo.top-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://hub.guuguo.top)
 [![GitHub](https://img.shields.io/badge/GitHub-guuguo-181717?style=flat-square&logo=github)](https://github.com/guuguo)
 [![Juejin](https://img.shields.io/badge/掘金-技术专栏-1E80FF?style=flat-square)](https://juejin.cn/user/835284564728573)
+[![爱发电](https://img.shields.io/badge/爱发电-afdian.com%2Fa%2Fguuguo-946ce6?style=flat-square)](https://afdian.com/a/guuguo)
 ![Profile Views](https://komarev.com/ghpvc/?username=guuguo&color=34d399&style=flat-square)
 
 </div>
