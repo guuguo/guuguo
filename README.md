@@ -28,7 +28,7 @@
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [agent-control](https://github.com/guuguo/agent-control) · [官网](https://hub.guuguo.top/agent-control) | Node.js / ESM | Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, and Grok \| 电脑与手机统一监控多智能体进度与权限批复 |
+| [RemoDeck](https://github.com/guuguo/remodeck) · [官网](https://hub.guuguo.top/agent-control) | Node.js / ESM | Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, and Grok \| 电脑与手机统一监控多智能体进度与权限批复 |
 | [antigravity-zh-launcher](https://github.com/guuguo/antigravity-zh-launcher) · [官网](https://hub.guuguo.top/antigravity-zh) | Shell / PowerShell | Non-intrusive 9-language launcher & AI thinking localization for Google Antigravity (`zh-CN`, `zh-TW`, `ja`, `ko`, `es`, `fr`, `de`, `ru`, `pt-BR`) \| Antigravity 9 国语言无损双入口启动器 |
 | [漫嵌 MangaInlay](https://hub.guuguo.top/mangainlay) | Chrome Ext / Canvas | In-place AI manga & webtoon bubble translator preserving radial bursts & original artwork \| 漫画/条漫原位实时气泡嵌字翻译扩展 |
 | [MenuBarTidy](https://github.com/guuguo/MenuBarTidy) · [macOS 工具](https://hub.guuguo.top/mac-utils) | Swift | Localized Chinese macOS menu bar organizer forked from Ice (GPL-3.0), adapted for macOS 26 Tahoe \| 中文本地化 macOS 菜单栏整理工具 |
