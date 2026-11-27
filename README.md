@@ -10,7 +10,7 @@
 | | 作品 | 给谁 | 链接 |
 | :---: | --- | --- | --- |
 | <img src="https://hub.guuguo.top/assets/mangainlay-demo-github.gif?v=20261123v3" width="64" alt="漫嵌 MangaInlay" /> | **漫嵌 MangaInlay**<br/>生肉漫画与条漫原位中文嵌字扩展 | 漫画读者 | [Chrome 商店](https://chromewebstore.google.com/detail/jchdohdejkkonpocnjipingjgagfeibn) · [Edge 商店](https://microsoftedge.microsoft.com/addons/detail/iioeeclifijdikhefbihncbdngmlkmci) · [官网](https://hub.guuguo.top/mangainlay) · [仓库](https://github.com/guuguo/MangaInlay) |
-| <img src="https://hub.guuguo.top/assets/agent-3d-console.png" width="64" alt="RemoDeck" /> | **RemoDeck**（原 Agent Control）<br/>Codex / Claude Code / Antigravity 桌面与手机控制台 | 开发者 | [官网](https://hub.guuguo.top/agent-control) · [仓库](https://github.com/guuguo/remodeck) |
+| <img src="https://hub.guuguo.top/assets/agent-3d-console.png" width="64" alt="RemoDeck" /> | **RemoDeck**（原 Agent Control）<br/>Codex / Claude Code / Antigravity 桌面与手机控制台 | 开发者 | [官网](https://hub.guuguo.top/remodeck) · [仓库](https://github.com/guuguo/remodeck) |
 | <img src="https://hub.guuguo.top/assets/antigravity-icons.png" width="64" alt="Antigravity 多语言" /> | **Antigravity 多语言**（★79）<br/>9 国语言无损双图标启动器与 AI 回复本地化 | 开发者 | [官网](https://hub.guuguo.top/antigravity-zh) · [仓库](https://github.com/guuguo/antigravity-zh-launcher) |
 | 🛠 | **MemoryGuardian**<br/>macOS 原生系统与内存监控 | 开发者 | [官网](https://hub.guuguo.top/mac-utils) · [仓库](https://github.com/guuguo/MemoryGuardian) |
 
